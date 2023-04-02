@@ -1,9 +1,6 @@
 
 ## PIAIC Q2 Python Assignment
 
-There is a tale with daily weather data over the last 6 months of 2020, including the maximum, minimum, and average temperatures.
-Write a query that gives month, monthly maximum, monthly minimum, mnthly average temperatures for the six months.
-
 ```bash
 import numpy as np
 np.arange(10).reshape(2,5)
