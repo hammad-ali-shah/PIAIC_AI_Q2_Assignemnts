@@ -1,5 +1,5 @@
 
-## PIAIC Q2 Python Assignment
+## PIAIC Q2 NumPy Assignment
 
 ```bash
 import numpy as np
